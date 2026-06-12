@@ -1,0 +1,62 @@
+[tools]
+"npm:tiddlywiki" = "5.4.0"
+"npm:serve" = "14.2.6"
+
+[tasks.start]
+description = "Start tiddlywiki server"
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+PORT=8090
+while lsof -Pi :$PORT -sTCP:LISTEN -t >/dev/null 2>&1; do
+    PORT=$((PORT + 1))
+done
+
+(sleep 2 && open -a Safari "http://localhost:$PORT") &
+tiddlywiki --listen port=$PORT username=TJ
+'''
+
+[tasks.stop]
+description = "Stop tiddlywiki server"
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+PID=$(lsof -ti:8090 || true)
+if [ -n "$PID" ]; then
+    kill "$PID"
+fi
+'''
+
+[tasks.preview]
+description = "Build and preview the site"
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+rm -rf output
+tiddlywiki --build index
+open ./output/index.html
+'''
+
+[tasks.serve]
+description = "Serve the built site"
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+tiddlywiki --build index
+serve output
+'''
+
+[tasks.push]
+description = "Push to github pages"
+run = '''
+#!/usr/bin/env bash
+set -euo pipefail
+
+git add .
+git commit -m "chore: update $(date +%Y%m%d)"
+git push
+'''

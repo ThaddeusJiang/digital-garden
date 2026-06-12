@@ -3,9 +3,13 @@
 Powered by TiddlyWiki.
 
 ```shell
-just start
+mise run start
 
-just stop
+mise run stop
 
-just push
+mise run preview
+
+mise run serve
+
+mise run push
 ```

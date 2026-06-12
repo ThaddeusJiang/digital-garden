@@ -1,0 +1,18 @@
+created: 20260612035255677
+modified: 20260612035713617
+tags: 
+title: elixir mix MIX_DEPS_PATH
+type: text/vnd.tiddlywiki
+
+2026-06-12 我发现我用错了 `MIX_DEPS_PATH`
+
+不能为 repo 配置 MIX_DEPS_PATH， 因为当 repo 中 mix.lock 发生变化时，会导致 git worktree deps 冲突。没有必要配置 `MIX_DEPS_PATH`
+
+`~/.hex/packages/hexpm` 是 Hex 的全局下载缓存。**下载**
+
+`./deps` **解压**
+
+
+
+
+
