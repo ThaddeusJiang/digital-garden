@@ -1,6 +1,6 @@
 created: 20250513091412816
 modified: 20260815033746256
-nmem-sync-fingerprint: b4b0fe8d4660066ef91394359d14c49a661d5da934807548d80b4b48f1f8c052
+nmem-digest: sha256:b4b0fe8d4660066ef91394359d14c49a661d5da934807548d80b4b48f1f8c052
 nmem-uri: nowledgemem://memory/572481b1-598a-5bd9-a078-735496d6a865
 tags: $:/NowledgeMem
 title: docker container hot-reload

@@ -1,6 +1,6 @@
 created: 20250806023546431
 modified: 20260815033746260
-nmem-sync-fingerprint: 93bf06f7e3be23d5286b88cb7e0a4832a51d70066d7bc7adc275c464f646b822
+nmem-digest: sha256:93bf06f7e3be23d5286b88cb7e0a4832a51d70066d7bc7adc275c464f646b822
 nmem-uri: nowledgemem://memory/6f5bff3c-ee59-50ae-a84c-239736e4e7de
 tags: $:/NowledgeMem
 title: GraphQL client: URQL

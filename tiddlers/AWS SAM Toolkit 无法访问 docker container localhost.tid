@@ -1,6 +1,6 @@
 created: 20250712024252222
 modified: 20260815033746251
-nmem-sync-fingerprint: d0299494debe4cba2b48ffd17125bdf2dbcb60bb4860ddf2dc47c24901bec8de
+nmem-digest: sha256:d0299494debe4cba2b48ffd17125bdf2dbcb60bb4860ddf2dc47c24901bec8de
 nmem-uri: nowledgemem://memory/8980701f-53ba-5844-9e72-70e03e0af838
 tags: #repeated $:/NowledgeMem
 title: AWS SAM Toolkit 无法访问 docker container localhost

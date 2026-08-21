@@ -1,6 +1,6 @@
 created: 20250824180245951
 modified: 20260815033746259
-nmem-sync-fingerprint: 776c9592e3a32028d2cf0d50de71e46eb2ba2be0350685be4dafcbe1daffb207
+nmem-digest: sha256:776c9592e3a32028d2cf0d50de71e46eb2ba2be0350685be4dafcbe1daffb207
 nmem-uri: nowledgemem://memory/222c4f26-10c9-58cc-a04d-f8845353bd25
 tags: [[What I can do]] $:/NowledgeMem
 title: GitHub Actions

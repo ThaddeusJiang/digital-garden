@@ -1,6 +1,6 @@
 created: 20250514065843488
 modified: 20260815033746259
-nmem-sync-fingerprint: e8939ee008f45524a808f963e8e99b7e8b7eabd8c8e23b06ae81930ff7bbe115
+nmem-digest: sha256:e8939ee008f45524a808f963e8e99b7e8b7eabd8c8e23b06ae81930ff7bbe115
 nmem-uri: nowledgemem://memory/427d7052-2116-51ab-8465-9002f1d8e1f3
 tags: $:/NowledgeMem
 title: GitHub Actions Tips: npm install

@@ -1,6 +1,6 @@
 created: 20250824183548215
 modified: 20260815033746269
-nmem-sync-fingerprint: aa4427608be9a1a0f01e0e72cb29c5859de559655e852d3774786b3adda5cd9f
+nmem-digest: sha256:aa4427608be9a1a0f01e0e72cb29c5859de559655e852d3774786b3adda5cd9f
 nmem-uri: nowledgemem://memory/8cd3cdb4-6c84-5375-aa8a-c430197329f8
 tags: $:/NowledgeMem
 title: shadcn/ui spacing

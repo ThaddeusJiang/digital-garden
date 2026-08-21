@@ -1,6 +1,6 @@
 created: 20250801051233589
 modified: 20260815033746264
-nmem-sync-fingerprint: cfe7cc5a0da93fe5bad61d1fc7db913e9a66a4a4f5f12150e429d9bf99edaefe
+nmem-digest: sha256:cfe7cc5a0da93fe5bad61d1fc7db913e9a66a4a4f5f12150e429d9bf99edaefe
 nmem-uri: nowledgemem://memory/bcc87ec4-cc19-5814-8777-fc6454a5d1af
 tags: $:/NowledgeMem
 title: NestJS

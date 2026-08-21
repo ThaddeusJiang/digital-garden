@@ -1,6 +1,6 @@
 created: 20250919041259012
 modified: 20260815033746253
-nmem-sync-fingerprint: 1eb391f3639822a24e5d27062b63b2543cfbed3bdb7d071397b745111bb66aec
+nmem-digest: sha256:1eb391f3639822a24e5d27062b63b2543cfbed3bdb7d071397b745111bb66aec
 nmem-uri: nowledgemem://memory/6617da1d-66e6-54e3-9d94-c2869b2d86c1
 tags: $:/NowledgeMem
 title: Container queries 是现代 CSS 必须掌握的技能

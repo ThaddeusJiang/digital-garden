@@ -1,6 +1,6 @@
 created: 20250331071943189
 modified: 20260815033746252
-nmem-sync-fingerprint: d969befd1a60b006ba69efc2c981e2384572e2bba613cdcab81512deb9f8213c
+nmem-digest: sha256:d969befd1a60b006ba69efc2c981e2384572e2bba613cdcab81512deb9f8213c
 nmem-uri: nowledgemem://memory/900c049a-14e0-590d-8234-5afd36a8764e
 tags: $:/NowledgeMem
 title: Client handling Server-sent events

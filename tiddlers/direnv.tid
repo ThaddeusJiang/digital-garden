@@ -1,6 +1,6 @@
 created: 20250707014551955
 modified: 20260815033746255
-nmem-sync-fingerprint: b91019e0449815efcacdc30e0fd9f2ad35e1164073f08289df866c1e54335456
+nmem-digest: sha256:b91019e0449815efcacdc30e0fd9f2ad35e1164073f08289df866c1e54335456
 nmem-uri: nowledgemem://memory/57a36788-c65f-5f6d-ae67-a749483f384d
 tags: $:/NowledgeMem
 title: direnv

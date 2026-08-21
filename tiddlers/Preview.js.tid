@@ -1,6 +1,6 @@
 created: 20250507042938867
 modified: 20260815033746265
-nmem-sync-fingerprint: 1adb04d62d260193ce449daab9e08edb6f4ecb7d2a97aa3d6511bfe01a3349ab
+nmem-digest: sha256:1adb04d62d260193ce449daab9e08edb6f4ecb7d2a97aa3d6511bfe01a3349ab
 nmem-uri: nowledgemem://memory/f0f536bc-f6b6-57b7-9880-4b6cada9b462
 tags: $:/NowledgeMem
 title: Preview.js

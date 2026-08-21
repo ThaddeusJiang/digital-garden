@@ -1,6 +1,6 @@
 created: 20250825051520141
 modified: 20260815033746278
-nmem-sync-fingerprint: 7f546f2fc37403c4673af0421615d3d780e92ab2603e2608c498796fa82c4cb1
+nmem-digest: sha256:7f546f2fc37403c4673af0421615d3d780e92ab2603e2608c498796fa82c4cb1
 nmem-uri: nowledgemem://memory/b22ffb8c-b98b-5c65-82e1-5f4e7335d76e
 tags: $:/NowledgeMem
 title: Zero JS

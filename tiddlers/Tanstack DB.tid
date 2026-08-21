@@ -1,6 +1,6 @@
 created: 20250825052428181
 modified: 20260815033746270
-nmem-sync-fingerprint: 31cb6b6f04d5f069df60b0f39fe00c98626d3e9627ccf72d101b48f821c88af2
+nmem-digest: sha256:31cb6b6f04d5f069df60b0f39fe00c98626d3e9627ccf72d101b48f821c88af2
 nmem-uri: nowledgemem://memory/b4c84729-621e-5074-bd65-350c5defc11d
 tags: $:/NowledgeMem
 title: Tanstack DB

@@ -1,6 +1,6 @@
 created: 20251013071316420
 modified: 20260815033746258
-nmem-sync-fingerprint: ede2c0c52aef64697ca86b0cf52667fce401e60ab7b1d941e20b4d0ce9cc9d6a
+nmem-digest: sha256:ede2c0c52aef64697ca86b0cf52667fce401e60ab7b1d941e20b4d0ce9cc9d6a
 nmem-uri: nowledgemem://memory/e68a316b-fcb8-5e56-82ef-342d57c57cd0
 tags: $:/NowledgeMem
 title: GenerativeAI

@@ -1,6 +1,6 @@
 created: 20250712074646988
 modified: 20260815033746256
-nmem-sync-fingerprint: 71e58db037511c10ec9f3ef366f7d4aca8e60ab32165e3e323e41bea0e12f392
+nmem-digest: sha256:71e58db037511c10ec9f3ef366f7d4aca8e60ab32165e3e323e41bea0e12f392
 nmem-uri: nowledgemem://memory/17bcd654-4a80-5cae-8943-72efbaab0f9f
 tags: $:/NowledgeMem
 title: elixir ash Optimistic Lock

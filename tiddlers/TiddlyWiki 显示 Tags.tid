@@ -1,6 +1,6 @@
 created: 20250801085542049
 modified: 20260815033746273
-nmem-sync-fingerprint: 5a1b5a5a0947a4b29abda7b7ae230cff98ec3cb5a840819f111c8c2910effad5
+nmem-digest: sha256:5a1b5a5a0947a4b29abda7b7ae230cff98ec3cb5a840819f111c8c2910effad5
 nmem-uri: nowledgemem://memory/19a815cf-7829-5798-8c41-811c09dc2f84
 tags: $:/NowledgeMem
 title: TiddlyWiki 显示 Tags

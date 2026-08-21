@@ -1,6 +1,6 @@
 created: 20221103020138915
 modified: 20260815033746269
-nmem-sync-fingerprint: 98f20d825a7ef63557f3ecef21b6dab18e210f78f7fde4c1a02fc30b88c306a0
+nmem-digest: sha256:98f20d825a7ef63557f3ecef21b6dab18e210f78f7fde4c1a02fc30b88c306a0
 nmem-uri: nowledgemem://memory/03a119b2-231c-5819-b34a-838132251387
 tags: $:/NowledgeMem
 title: RxJS

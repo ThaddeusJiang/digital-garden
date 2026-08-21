@@ -1,6 +1,6 @@
 created: 20250514082042999
 modified: 20260815033746268
-nmem-sync-fingerprint: 40d903e37b96eac23178e51323438f0f18fbab505a2d03018f212c8702641a13
+nmem-digest: sha256:40d903e37b96eac23178e51323438f0f18fbab505a2d03018f212c8702641a13
 nmem-uri: nowledgemem://memory/2c0c8771-cde8-5b9f-b21d-2c17102309ab
 tags: tj-stack $:/NowledgeMem
 title: react-scan

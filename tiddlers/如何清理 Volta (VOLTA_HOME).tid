@@ -1,6 +1,6 @@
 created: 20251204110000000
 modified: 20260815033746280
-nmem-sync-fingerprint: 5d8eb04c88140c5e68f5baaacd3cb17fd081da5960564a9a3019cf04a51f35a2
+nmem-digest: sha256:5d8eb04c88140c5e68f5baaacd3cb17fd081da5960564a9a3019cf04a51f35a2
 nmem-uri: nowledgemem://memory/54c3e6d6-bb51-513b-a413-e2faea1ac7da
 tags: $:/NowledgeMem
 title: 如何清理 Volta (VOLTA_HOME)

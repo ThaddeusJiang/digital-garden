@@ -1,6 +1,6 @@
 created: 20250425095138096
 modified: 20260815033746265
-nmem-sync-fingerprint: 71b51976abc27b5a8b0063ad033aebb9207b0cdb7c18f8d9a3aec61eeafd495b
+nmem-digest: sha256:71b51976abc27b5a8b0063ad033aebb9207b0cdb7c18f8d9a3aec61eeafd495b
 nmem-uri: nowledgemem://memory/6b4dc8e5-f4fd-5410-bda4-6d64365073ff
 tags: $:/NowledgeMem
 title: Preact

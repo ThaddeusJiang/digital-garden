@@ -1,6 +1,6 @@
 created: 20250902094129445
 modified: 20260815033746267
-nmem-sync-fingerprint: 90285611a094127e4f3133171e2ff712361f7001f58bf2c52e936a6078566e03
+nmem-digest: sha256:90285611a094127e4f3133171e2ff712361f7001f58bf2c52e936a6078566e03
 nmem-uri: nowledgemem://memory/3b73afa0-348e-5b12-8c5b-0cfcedfb3650
 tags: $:/NowledgeMem
 title: React useId()

@@ -1,6 +1,6 @@
 created: 20221108024027565
 modified: 20260815033746270
-nmem-sync-fingerprint: 66f946940b80b075bfdb2d35428abe058a3d97ca16645ada49723ac19531a883
+nmem-digest: sha256:66f946940b80b075bfdb2d35428abe058a3d97ca16645ada49723ac19531a883
 nmem-uri: nowledgemem://memory/edaff655-a615-5284-a212-5f482a040636
 tags: $:/NowledgeMem
 title: SurrealDB

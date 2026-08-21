@@ -1,6 +1,6 @@
 created: 20251006014540818
 modified: 20260815033746277
-nmem-sync-fingerprint: 86a37793043737f765d9039828340dd62601494e742f30fdcbab7c60f6ec2e41
+nmem-digest: sha256:86a37793043737f765d9039828340dd62601494e742f30fdcbab7c60f6ec2e41
 nmem-uri: nowledgemem://memory/86a1fcb9-4866-51e9-ac60-24e795141ada
 tags: $:/NowledgeMem
 title: web number input CSS

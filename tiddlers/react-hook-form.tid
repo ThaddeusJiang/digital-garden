@@ -1,6 +1,6 @@
 created: 20250514072650036
 modified: 20260815033746267
-nmem-sync-fingerprint: 61c378b458746064f2e0152d342cf1284b074b04d35da7bc870a09fc1b6a5ffc
+nmem-digest: sha256:61c378b458746064f2e0152d342cf1284b074b04d35da7bc870a09fc1b6a5ffc
 nmem-uri: nowledgemem://memory/9cd559a0-bb5a-5f33-af28-9fc8706f0126
 tags: $:/NowledgeMem
 title: react-hook-form

@@ -1,6 +1,6 @@
 created: 20250923081957468
 modified: 20260814152325291
-nmem-sync-fingerprint: 4276cadf8959bb853e750b4b962a25f0028ef8a1e23efa1dfb92c978a5e37da2
+nmem-digest: sha256:4276cadf8959bb853e750b4b962a25f0028ef8a1e23efa1dfb92c978a5e37da2
 nmem-uri: nowledgemem://memory/558143b1-2d3e-5e6b-96c8-fe916878e40f
 tags: TechRadar/放弃 $:/NowledgeMem
 title: class-validator

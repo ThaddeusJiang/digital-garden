@@ -1,6 +1,6 @@
 created: 20250825051809244
 modified: 20260815033746268
-nmem-sync-fingerprint: e3bddba98af541030a4eccb8733bfd9a7ce79a1621fae9ada2aedcfdc3ef191e
+nmem-digest: sha256:e3bddba98af541030a4eccb8733bfd9a7ce79a1621fae9ada2aedcfdc3ef191e
 nmem-uri: nowledgemem://memory/ce8dfa0e-76c3-5213-bd05-7a2c540ed56f
 tags: $:/NowledgeMem
 title: realtime Data

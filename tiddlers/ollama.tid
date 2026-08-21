@@ -1,6 +1,6 @@
 created: 20251017013543736
 modified: 20260815033746265
-nmem-sync-fingerprint: 3b3c138cf745b3ed78bc5ebf46f6efce14c0e401498b429dbc154728425c6239
+nmem-digest: sha256:3b3c138cf745b3ed78bc5ebf46f6efce14c0e401498b429dbc154728425c6239
 nmem-uri: nowledgemem://memory/a54d79b5-a369-5e70-a51d-6c20a5f65ebe
 tags: TechRadar/暂缓 $:/NowledgeMem
 title: ollama

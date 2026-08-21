@@ -1,6 +1,6 @@
 created: 20250622033617039
 modified: 20260815033746279
-nmem-sync-fingerprint: 81e2bde8cbb2550c9e1d8238acebfe5220c7f2fa3447046cf34661fb8ce0a633
+nmem-digest: sha256:81e2bde8cbb2550c9e1d8238acebfe5220c7f2fa3447046cf34661fb8ce0a633
 nmem-uri: nowledgemem://memory/88f032f7-239b-5c81-83ab-750c38568d67
 tags: $:/NowledgeMem
 title: 依赖注入风格的问题

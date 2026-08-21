@@ -1,6 +1,6 @@
 created: 20250522063504277
 modified: 20260815033746275
-nmem-sync-fingerprint: 51079c0993808de1927a8ef6a61373ea8e1ce34d1887aba2689b1443ad7aed7f
+nmem-digest: sha256:51079c0993808de1927a8ef6a61373ea8e1ce34d1887aba2689b1443ad7aed7f
 nmem-uri: nowledgemem://memory/bc0724f6-53ef-5fbe-8712-53a826ad5428
 tags: $:/NowledgeMem
 title: Typesense 不支持 RDB 的 join 操作

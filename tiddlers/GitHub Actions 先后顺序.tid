@@ -1,6 +1,6 @@
 created: 20250728092404099
 modified: 20260815033746259
-nmem-sync-fingerprint: 157b65a59dddef8707fc4aa5503d72908cdd39831ba75866651588700a4ea977
+nmem-digest: sha256:157b65a59dddef8707fc4aa5503d72908cdd39831ba75866651588700a4ea977
 nmem-uri: nowledgemem://memory/f52a3294-2826-5da4-9397-e01ced219f9d
 tags: $:/NowledgeMem
 title: GitHub Actions 先后顺序

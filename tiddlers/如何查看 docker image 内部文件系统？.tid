@@ -1,6 +1,6 @@
 created: 20250520082356457
 modified: 20260815033746280
-nmem-sync-fingerprint: 81559d1fad0134fc7c866172750d2c7957b37efc905f521aef70ae79dbc46b62
+nmem-digest: sha256:81559d1fad0134fc7c866172750d2c7957b37efc905f521aef70ae79dbc46b62
 nmem-uri: nowledgemem://memory/4a33043d-21ff-513c-868a-b0044c285123
 tags: $:/NowledgeMem
 title: 如何查看 docker image 内部文件系统？

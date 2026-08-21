@@ -1,6 +1,6 @@
 created: 20220601133818754
 modified: 20260815033746272
-nmem-sync-fingerprint: f76e8ab94f9b6926a9289fee945bece609b26a4f3d8f2cec791614f5cac342fb
+nmem-digest: sha256:f76e8ab94f9b6926a9289fee945bece609b26a4f3d8f2cec791614f5cac342fb
 nmem-uri: nowledgemem://memory/2178c564-bbb0-52a8-b2d0-cf92109adda8
 tags: $:/NowledgeMem
 title: TiddlyWiki render Tag UI

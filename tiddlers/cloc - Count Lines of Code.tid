@@ -1,6 +1,6 @@
 created: 20250514092449699
 modified: 20260815033746252
-nmem-sync-fingerprint: e67f7aa20432df8a439a6c0b7eda97880f14c16cb2ef65142b602e5ac6d5f425
+nmem-digest: sha256:e67f7aa20432df8a439a6c0b7eda97880f14c16cb2ef65142b602e5ac6d5f425
 nmem-uri: nowledgemem://memory/2a30a22e-87bf-5436-8256-05a410a7e55a
 tags: $:/NowledgeMem
 title: cloc - Count Lines of Code

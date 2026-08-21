@@ -1,6 +1,6 @@
 created: 20250712075945207
 modified: 20260815033746257
-nmem-sync-fingerprint: e4c620903ad56e05adb20cd32badeffcbcff0067533e73df75fa3e4d702a1f6d
+nmem-digest: sha256:e4c620903ad56e05adb20cd32badeffcbcff0067533e73df75fa3e4d702a1f6d
 nmem-uri: nowledgemem://memory/5a7270d0-d96e-56f6-8595-01f8b8cdfc1a
 tags: $:/NowledgeMem
 title: elixir 生态的 ActiveAdmin

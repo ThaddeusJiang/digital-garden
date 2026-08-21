@@ -1,6 +1,6 @@
 created: 20260612035255677
 modified: 20260815033746257
-nmem-sync-fingerprint: 71447635b39b4010380e1bb1f20ba5946a56f1b6c851686e45f876e2e225c7c8
+nmem-digest: sha256:71447635b39b4010380e1bb1f20ba5946a56f1b6c851686e45f876e2e225c7c8
 nmem-uri: nowledgemem://memory/091a1e98-3edd-52eb-b361-d35e6de1a8a3
 tags: $:/NowledgeMem
 title: elixir mix MIX_DEPS_PATH

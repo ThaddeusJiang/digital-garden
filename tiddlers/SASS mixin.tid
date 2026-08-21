@@ -1,6 +1,6 @@
 created: 20250514065403742
 modified: 20260815033746269
-nmem-sync-fingerprint: 8636c8b957817a2275d6885b9a5c22ba4e479ae65edfc34bea152ffe88f201d8
+nmem-digest: sha256:8636c8b957817a2275d6885b9a5c22ba4e479ae65edfc34bea152ffe88f201d8
 nmem-uri: nowledgemem://memory/caee634f-380c-5319-8116-5ce01a161887
 tags: $:/NowledgeMem
 title: SASS mixin

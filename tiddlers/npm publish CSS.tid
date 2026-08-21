@@ -1,6 +1,6 @@
 created: 20250514034103112
 modified: 20260815033746264
-nmem-sync-fingerprint: 9fcad357a5c0692b31fefaa69180b883e408b9bd9dc60ebb3c26aff737c903b1
+nmem-digest: sha256:9fcad357a5c0692b31fefaa69180b883e408b9bd9dc60ebb3c26aff737c903b1
 nmem-uri: nowledgemem://memory/87673a47-be01-539f-aa99-fddb7915aa70
 tags: $:/NowledgeMem
 title: npm publish CSS

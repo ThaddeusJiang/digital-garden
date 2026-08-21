@@ -1,6 +1,6 @@
 created: 20250513091715612
 modified: 20260815033746255
-nmem-sync-fingerprint: eb81a33dc27a1eaa489f594e11bed6580c5221e2afc269055b0cf5c15fb00a7e
+nmem-digest: sha256:eb81a33dc27a1eaa489f594e11bed6580c5221e2afc269055b0cf5c15fb00a7e
 nmem-uri: nowledgemem://memory/4262dffb-3bdd-563c-945a-b6e1bd9d9d7e
 tags: $:/NowledgeMem
 title: docker compose volumes :delegated

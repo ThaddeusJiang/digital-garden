@@ -1,6 +1,6 @@
 created: 20250825040236213
 modified: 20260815033746281
-nmem-sync-fingerprint: c74e6c70798ac47d30ea17eb4352ecdeb948a608bd44f7d89c23ede2266d96fe
+nmem-digest: sha256:c74e6c70798ac47d30ea17eb4352ecdeb948a608bd44f7d89c23ede2266d96fe
 nmem-uri: nowledgemem://memory/d6aa358c-c2ee-5483-87bc-8a54d21d9b80
 tags: $:/NowledgeMem
 title: 我写 JS 从来不写 class，我没有遇到不使用 class 不行的需求

@@ -1,6 +1,6 @@
 created: 20250514064042706
 modified: 20260815033746251
-nmem-sync-fingerprint: 1399d0c27d456f558b27a8916e85693de7f2d9267231098f7799b46af25178bc
+nmem-digest: sha256:1399d0c27d456f558b27a8916e85693de7f2d9267231098f7799b46af25178bc
 nmem-uri: nowledgemem://memory/bc648303-4f56-5b7a-806d-6465c0c19bbf
 tags: tj-stack $:/NowledgeMem
 title: Bun

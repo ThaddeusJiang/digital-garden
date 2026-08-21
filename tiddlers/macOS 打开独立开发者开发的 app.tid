@@ -1,6 +1,6 @@
 created: 20250808051648276
 modified: 20260815033746263
-nmem-sync-fingerprint: 9434fe885621866ca07b775cdf91121a729d44dcca92a5800f9e2ea17c05cc1b
+nmem-digest: sha256:9434fe885621866ca07b775cdf91121a729d44dcca92a5800f9e2ea17c05cc1b
 nmem-uri: nowledgemem://memory/7a529fc7-a582-55c9-baf3-d60029930c57
 tags: $:/NowledgeMem
 title: macOS 打开独立开发者开发的 app

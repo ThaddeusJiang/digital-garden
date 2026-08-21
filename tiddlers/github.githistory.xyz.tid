@@ -1,6 +1,6 @@
 created: 20250731062647262
 modified: 20260815033746259
-nmem-sync-fingerprint: a41f55188f20538c31fb5ac215d804a2f6690c2c76c58bed9473edf6c5fd3e6c
+nmem-digest: sha256:a41f55188f20538c31fb5ac215d804a2f6690c2c76c58bed9473edf6c5fd3e6c
 nmem-uri: nowledgemem://memory/794d6d78-fbf2-56d2-8d3c-35a9e2b14e5b
 tags: $:/NowledgeMem
 title: github.githistory.xyz

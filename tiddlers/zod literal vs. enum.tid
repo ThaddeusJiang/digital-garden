@@ -1,6 +1,6 @@
 created: 20250609021804862
 modified: 20260815033746278
-nmem-sync-fingerprint: d68dde78594b8d08a8ab19c042363683d077dcfcb784fe589ac4620d9fc81ef5
+nmem-digest: sha256:d68dde78594b8d08a8ab19c042363683d077dcfcb784fe589ac4620d9fc81ef5
 nmem-uri: nowledgemem://memory/1127643f-f2e1-50b8-9263-b1e4c9d627c5
 tags: $:/NowledgeMem
 title: zod literal vs. enum

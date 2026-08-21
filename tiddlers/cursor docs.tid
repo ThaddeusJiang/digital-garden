@@ -1,6 +1,6 @@
 created: 20250923081059598
 modified: 20260815033746254
-nmem-sync-fingerprint: 853398b42e0cfd99401d3f0df8451224a00d75956397d6939d3aacbcc5e74411
+nmem-digest: sha256:853398b42e0cfd99401d3f0df8451224a00d75956397d6939d3aacbcc5e74411
 nmem-uri: nowledgemem://memory/7c706d0f-3315-5fa0-b831-9a27bce3a556
 tags: $:/NowledgeMem
 title: cursor docs

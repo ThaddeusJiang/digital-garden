@@ -1,6 +1,6 @@
 created: 20221107004431023
 modified: 20260814152325290
-nmem-sync-fingerprint: c54d2717d98a2a9ac400179991583ee0546a3a754b9edfb82315572754b6b4e1
+nmem-digest: sha256:c54d2717d98a2a9ac400179991583ee0546a3a754b9edfb82315572754b6b4e1
 nmem-uri: nowledgemem://memory/f9008f23-603e-5017-b891-c2de0aa1cc26
 tags: TechRadar/放弃 $:/NowledgeMem
 title: Colima

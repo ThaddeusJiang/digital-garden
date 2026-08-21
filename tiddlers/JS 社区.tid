@@ -1,6 +1,6 @@
 created: 20250425092012041
 modified: 20260815033746262
-nmem-sync-fingerprint: d1f25aebef1e7d51e112fbd38c6568145f1d12566c2caaf783647dfeaf6a5f59
+nmem-digest: sha256:d1f25aebef1e7d51e112fbd38c6568145f1d12566c2caaf783647dfeaf6a5f59
 nmem-uri: nowledgemem://memory/3a681597-8882-58bf-8771-e44fbebb28c6
 tags: $:/NowledgeMem
 title: JS 社区

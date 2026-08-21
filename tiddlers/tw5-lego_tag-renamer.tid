@@ -1,7 +1,7 @@
 created: 20230627095431301
 modified: 20260815033746274
 new: tj-edu
-nmem-sync-fingerprint: 7a92fa4cbc4811b3bf6c5f560351a9f916b23410cdadafe3bbe249ac14c995db
+nmem-digest: sha256:7a92fa4cbc4811b3bf6c5f560351a9f916b23410cdadafe3bbe249ac14c995db
 nmem-uri: nowledgemem://memory/78f9258f-32e1-5709-bd9a-d05fb2734fa9
 old: TJ_edu
 tags: $:/NowledgeMem

@@ -1,6 +1,6 @@
 created: 20250818042021132
 modified: 20260815033746279
-nmem-sync-fingerprint: b6a784575f98c954e344781af929a6b02bbc25a17a7a3142ba821a04e1185a31
+nmem-digest: sha256:b6a784575f98c954e344781af929a6b02bbc25a17a7a3142ba821a04e1185a31
 nmem-uri: nowledgemem://memory/ddf1ead9-3a0e-565e-949e-f0ccb0dac4fb
 tags: tj-stack $:/NowledgeMem
 title: 再推荐 grep.app

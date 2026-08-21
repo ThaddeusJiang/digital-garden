@@ -1,6 +1,6 @@
 created: 20250728100841531
 modified: 20260815033746259
-nmem-sync-fingerprint: a7fa69be03bbce3d7db9413c038b8ee29bd5de620517ffbc1c136eaa34093513
+nmem-digest: sha256:a7fa69be03bbce3d7db9413c038b8ee29bd5de620517ffbc1c136eaa34093513
 nmem-uri: nowledgemem://memory/e932f509-528a-5d16-84a9-20cee530a73b
 tags: $:/NowledgeMem
 title: GitHub Actions 重复利用

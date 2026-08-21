@@ -1,6 +1,6 @@
 created: 20250425072742777
 modified: 20260815033746262
-nmem-sync-fingerprint: 20a9777105db1cf53c2ed12dd390814a1f41d3463d3ab37752960f3f4c402edf
+nmem-digest: sha256:20a9777105db1cf53c2ed12dd390814a1f41d3463d3ab37752960f3f4c402edf
 nmem-uri: nowledgemem://memory/541c142d-6ab8-51f9-8086-21464577abc4
 tags: $:/NowledgeMem
 title: LiveView 的 client-server 通信简单且有效

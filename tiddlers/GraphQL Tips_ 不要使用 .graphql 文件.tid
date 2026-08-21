@@ -1,6 +1,6 @@
 created: 20250501024534541
 modified: 20260815033746260
-nmem-sync-fingerprint: 94d0ca7f8b37f68fcfafa33413a78ed5b7de67b9459e12d3293de96581f31655
+nmem-digest: sha256:94d0ca7f8b37f68fcfafa33413a78ed5b7de67b9459e12d3293de96581f31655
 nmem-uri: nowledgemem://memory/6eb52a13-c7a9-512d-9ea8-6efa0c22d750
 tags: $:/NowledgeMem
 title: GraphQL Tips: 不要使用 .graphql 文件

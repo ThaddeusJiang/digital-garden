@@ -1,6 +1,6 @@
 created: 20250712080029672
 modified: 20260815033746251
-nmem-sync-fingerprint: 2fc51d61273f36d84d284b9c0e3b088f72c79c7b6731f5850b3c47d12fbe58d0
+nmem-digest: sha256:2fc51d61273f36d84d284b9c0e3b088f72c79c7b6731f5850b3c47d12fbe58d0
 nmem-uri: nowledgemem://memory/c501eb37-d12c-5b27-86b1-528d03d84210
 tags: $:/NowledgeMem
 title: AshFramework 将会成为新时代的 rails，powered by elixir

@@ -1,6 +1,6 @@
 created: 20250320063943126
 modified: 20260815033746253
-nmem-sync-fingerprint: 51b380aee84dde7ee126e510cfd71f54ca6ac6b510e75dd0b7c4e05993f5d300
+nmem-digest: sha256:51b380aee84dde7ee126e510cfd71f54ca6ac6b510e75dd0b7c4e05993f5d300
 nmem-uri: nowledgemem://memory/157ee892-b5dd-5e41-b3df-9b6322b71c8a
 tags: $:/NowledgeMem
 title: CRDT

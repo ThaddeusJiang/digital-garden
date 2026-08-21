@@ -1,6 +1,6 @@
 created: 20250824180617972
 modified: 20260815033746267
-nmem-sync-fingerprint: 4a06deaf9bd35073f8b8662e8a6e6754bcae34b2ee93f9663a3736e7c76a72c4
+nmem-digest: sha256:4a06deaf9bd35073f8b8662e8a6e6754bcae34b2ee93f9663a3736e7c76a72c4
 nmem-uri: nowledgemem://memory/7fa589e7-8b30-55f3-a053-e35e5641075c
 tags: [[What I can do]] $:/NowledgeMem
 title: React Router lazy route 可以提高 first page 渲染速度

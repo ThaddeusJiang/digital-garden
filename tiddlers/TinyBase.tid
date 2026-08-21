@@ -1,7 +1,7 @@
 created: 20250828033701207
 icon: TinyBase.svg
 modified: 20260815033746273
-nmem-sync-fingerprint: 2e8b3336a82b559a4f0d7b1733ce730ec05310aedaaa24042e7a15786d6dd5e7
+nmem-digest: sha256:2e8b3336a82b559a4f0d7b1733ce730ec05310aedaaa24042e7a15786d6dd5e7
 nmem-uri: nowledgemem://memory/20da5721-8f42-5a0d-9076-57903ddbd6ed
 tags: [[local first data stack]] TechRadar/工具 $:/NowledgeMem
 title: TinyBase

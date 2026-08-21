@@ -1,6 +1,6 @@
 created: 20250625011941844
 modified: 20260815033746255
-nmem-sync-fingerprint: 526eb8a0f47c42b2d231e6c3035d7587bf4eb73461fa62ead87c22cb4246235a
+nmem-digest: sha256:526eb8a0f47c42b2d231e6c3035d7587bf4eb73461fa62ead87c22cb4246235a
 nmem-uri: nowledgemem://memory/aa962269-6516-542e-bc7f-be619cefe368
 tags: $:/NowledgeMem
 title: Design System

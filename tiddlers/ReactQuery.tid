@@ -1,6 +1,6 @@
 created: 20240807054126064
 modified: 20260815033746268
-nmem-sync-fingerprint: b0c35b703ee9036853e3a794c5eb73811387f84ff00beedee55dc3e6df290190
+nmem-digest: sha256:b0c35b703ee9036853e3a794c5eb73811387f84ff00beedee55dc3e6df290190
 nmem-uri: nowledgemem://memory/58eb5d94-4b36-52ca-ae52-a373e843f76d
 tags: TechRadar/暂缓 $:/NowledgeMem
 title: ReactQuery

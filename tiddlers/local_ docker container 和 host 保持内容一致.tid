@@ -1,6 +1,6 @@
 created: 20250818073637578
 modified: 20260815033746263
-nmem-sync-fingerprint: 3725d1a7ddca216639b75c512acc2ddd66a837b277828f8b70fce19216a4ecc2
+nmem-digest: sha256:3725d1a7ddca216639b75c512acc2ddd66a837b277828f8b70fce19216a4ecc2
 nmem-uri: nowledgemem://memory/ee2d5869-5aaf-5e12-a5e9-6fc1f453202f
 tags: $:/NowledgeMem
 title: local: docker container 和 host 保持内容一致

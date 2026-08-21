@@ -1,6 +1,6 @@
 created: 20221129022740080
 modified: 20260815033746270
-nmem-sync-fingerprint: a96953b0b2c104473b96ea836447bd5e00adfa717c7dde90ba7a537c4f8280f8
+nmem-digest: sha256:a96953b0b2c104473b96ea836447bd5e00adfa717c7dde90ba7a537c4f8280f8
 nmem-uri: nowledgemem://memory/bf7a3c28-2fb6-5530-b912-5c01d14bfedd
 tags: TechRadar/暂缓 $:/NowledgeMem
 title: TanStack Router

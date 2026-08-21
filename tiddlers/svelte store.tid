@@ -1,6 +1,6 @@
 created: 20250424094457717
 modified: 20260815033746270
-nmem-sync-fingerprint: 72b99a7701b0b4daa5dccfc0d218b18e529966e8235118e377ffe0d258ff5bf0
+nmem-digest: sha256:72b99a7701b0b4daa5dccfc0d218b18e529966e8235118e377ffe0d258ff5bf0
 nmem-uri: nowledgemem://memory/f8fd0105-73da-59d1-a4be-f33f68d0d24c
 tags: $:/NowledgeMem
 title: svelte store

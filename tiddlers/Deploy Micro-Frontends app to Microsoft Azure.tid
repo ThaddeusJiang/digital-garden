@@ -1,6 +1,6 @@
 created: 20220912113622673
 modified: 20260815033746255
-nmem-sync-fingerprint: 20032503c292894fdb95632c7f152991b9a2cb0b5ae208851daa848468e37b8c
+nmem-digest: sha256:20032503c292894fdb95632c7f152991b9a2cb0b5ae208851daa848468e37b8c
 nmem-uri: nowledgemem://memory/92770cc0-d970-573c-80ef-53389deaa803
 tags: $:/NowledgeMem
 title: Deploy Micro-Frontends app to Microsoft Azure

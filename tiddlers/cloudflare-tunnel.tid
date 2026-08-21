@@ -1,6 +1,6 @@
 created: 20251203170000000
 modified: 20260815033746252
-nmem-sync-fingerprint: e7fa1f30b53c4f902b675fffd0200d3b2cae71371140b1ce62a50d1ddd6c2360
+nmem-digest: sha256:e7fa1f30b53c4f902b675fffd0200d3b2cae71371140b1ce62a50d1ddd6c2360
 nmem-uri: nowledgemem://memory/94f93df7-e852-58de-8df8-d918d1857a29
 tags: $:/NowledgeMem
 title: cloudflare-tunnel

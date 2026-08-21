@@ -1,6 +1,6 @@
 created: 20250812085947324
 modified: 20260815033746263
-nmem-sync-fingerprint: 661edc9474dcdf57db1c3f01da32bc6bdc2ae1e6fa869283db9f1aceab78b67c
+nmem-digest: sha256:661edc9474dcdf57db1c3f01da32bc6bdc2ae1e6fa869283db9f1aceab78b67c
 nmem-uri: nowledgemem://memory/edef4a9a-bf1b-5a0b-9c99-f880e2f6618f
 tags: 2025关注 $:/NowledgeMem
 title: Local app 必须实现“秒开”

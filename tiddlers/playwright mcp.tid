@@ -1,6 +1,6 @@
 created: 20250707025334592
 modified: 20260815033746265
-nmem-sync-fingerprint: 60a8e74d4b494f422ded136124c2dbcf53e256ad6c9cdcb40069069401dcdab9
+nmem-digest: sha256:60a8e74d4b494f422ded136124c2dbcf53e256ad6c9cdcb40069069401dcdab9
 nmem-uri: nowledgemem://memory/93c1daa0-3307-5713-aac1-b9fe7d81b35d
 tags: $:/NowledgeMem
 title: playwright mcp

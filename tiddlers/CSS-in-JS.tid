@@ -1,6 +1,6 @@
 created: 20250424065436047
 modified: 20260815033746254
-nmem-sync-fingerprint: f50f4a4ac17c5dc52e759270f4477ad586a75461bdc45a8272b65f4ab19069a1
+nmem-digest: sha256:f50f4a4ac17c5dc52e759270f4477ad586a75461bdc45a8272b65f4ab19069a1
 nmem-uri: nowledgemem://memory/c0a27f6e-e598-54d0-8e0d-ada005c4a7ac
 tags: TechRadar/放弃 $:/NowledgeMem
 title: CSS-in-JS

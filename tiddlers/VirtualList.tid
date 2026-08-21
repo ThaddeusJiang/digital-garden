@@ -1,6 +1,6 @@
 created: 20240712112044578
 modified: 20260815033746276
-nmem-sync-fingerprint: f45837a69875b0903e3863240ad55d3c6ae355b55fb9c13d3ff547b9c21e456c
+nmem-digest: sha256:f45837a69875b0903e3863240ad55d3c6ae355b55fb9c13d3ff547b9c21e456c
 nmem-uri: nowledgemem://memory/1bc8ef55-e2c7-5cb4-96fe-45a12c8d6867
 tags: $:/NowledgeMem
 title: VirtualList

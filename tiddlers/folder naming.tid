@@ -1,6 +1,6 @@
 created: 20250708045103670
 modified: 20260815033746258
-nmem-sync-fingerprint: 0bab398b874c302d808841367271851c1e80b8d139151cec035571b4f23433e1
+nmem-digest: sha256:0bab398b874c302d808841367271851c1e80b8d139151cec035571b4f23433e1
 nmem-uri: nowledgemem://memory/8dde5246-9122-5750-a9a2-65863681d7af
 tags: $:/NowledgeMem
 title: folder naming

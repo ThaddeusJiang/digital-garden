@@ -1,6 +1,6 @@
 created: 20250318145350151
 modified: 20260815033746254
-nmem-sync-fingerprint: a239cc124f3c5100706bad102d7e7f0bbb40f6fd7bab01ed4f7f483ca622b209
+nmem-digest: sha256:a239cc124f3c5100706bad102d7e7f0bbb40f6fd7bab01ed4f7f483ca622b209
 nmem-uri: nowledgemem://memory/1463db8a-14c9-5229-a09b-ed4d0a03764f
 tags: $:/NowledgeMem
 title: Data fetching

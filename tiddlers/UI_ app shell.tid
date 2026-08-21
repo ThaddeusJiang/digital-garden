@@ -1,6 +1,6 @@
 created: 20250829122600312
 modified: 20260815033746275
-nmem-sync-fingerprint: 8f03c26b930a75023d0bcadef5c7d3ef93d6b0c3e8f36dfda7d3979a3f5e32b4
+nmem-digest: sha256:8f03c26b930a75023d0bcadef5c7d3ef93d6b0c3e8f36dfda7d3979a3f5e32b4
 nmem-uri: nowledgemem://memory/e6f553fa-f9c6-5cc4-b326-6204a987dbc0
 tags: $:/NowledgeMem
 title: UI: app shell

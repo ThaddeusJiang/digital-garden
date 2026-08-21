@@ -1,6 +1,6 @@
 created: 20250604075949500
 modified: 20260815033746266
-nmem-sync-fingerprint: f759d64b97028f3ec0e571c0eb5f4384b48255625f2b116aef90f6421e040291
+nmem-digest: sha256:f759d64b97028f3ec0e571c0eb5f4384b48255625f2b116aef90f6421e040291
 nmem-uri: nowledgemem://memory/d96e397d-31bd-5fe4-a0c8-01aca6380ef9
 tags: $:/NowledgeMem
 title: Rails Record scope

@@ -2,7 +2,7 @@ created: 20210622082158418
 creator: TJ
 modified: 20260815033746261
 modifier: ThaddeusJiang
-nmem-sync-fingerprint: 5a0d3074aff2f9b746d9a1121586c8ba1a5c593a720a1356b532f1a9f61d8666
+nmem-digest: sha256:5a0d3074aff2f9b746d9a1121586c8ba1a5c593a720a1356b532f1a9f61d8666
 nmem-uri: nowledgemem://memory/94eba939-2b7e-5d28-9824-c99f5866cbc9
 tags: TechRadar/语言&框架 TechRadar/采纳 $:/NowledgeMem
 title: immer js

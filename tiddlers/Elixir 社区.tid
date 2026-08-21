@@ -1,6 +1,6 @@
 created: 20250425092521925
 modified: 20260815033746257
-nmem-sync-fingerprint: c8e5c77cb11a883efec98b4493f4f111f6ba115ef8860cc82f579d1c6283cc62
+nmem-digest: sha256:c8e5c77cb11a883efec98b4493f4f111f6ba115ef8860cc82f579d1c6283cc62
 nmem-uri: nowledgemem://memory/9984596c-d9ec-5a70-a52c-65f2710e0ee9
 tags: $:/NowledgeMem
 title: Elixir 社区

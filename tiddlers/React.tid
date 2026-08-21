@@ -1,6 +1,6 @@
 created: 20250318141618879
 modified: 20260815033746266
-nmem-sync-fingerprint: 4e927c5778bb8ab494de85a31cb9f7b0d776de85c50c9372a85f21c44547991e
+nmem-digest: sha256:4e927c5778bb8ab494de85a31cb9f7b0d776de85c50c9372a85f21c44547991e
 nmem-uri: nowledgemem://memory/e435fe6d-4f29-5bff-9536-c08bbc042ab9
 tags: $:/NowledgeMem
 title: React

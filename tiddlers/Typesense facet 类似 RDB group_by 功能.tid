@@ -1,6 +1,6 @@
 created: 20250522063616454
 modified: 20260815033746274
-nmem-sync-fingerprint: 29ce06cac7e11571b4206e9aeb53c99f952600735ee546737d202157f6fda2bc
+nmem-digest: sha256:29ce06cac7e11571b4206e9aeb53c99f952600735ee546737d202157f6fda2bc
 nmem-uri: nowledgemem://memory/af4a7e37-80ab-5550-b1e8-79397e8a1caf
 tags: $:/NowledgeMem
 title: Typesense facet 类似 RDB group_by 功能

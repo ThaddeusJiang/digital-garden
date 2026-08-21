@@ -1,6 +1,6 @@
 created: 20250902095105272
 modified: 20260815033746267
-nmem-sync-fingerprint: de5e60d43885e63c35e63311df8617246c3adbe565f56e1da982be7097d584e0
+nmem-digest: sha256:de5e60d43885e63c35e63311df8617246c3adbe565f56e1da982be7097d584e0
 nmem-uri: nowledgemem://memory/6873fb92-5f98-5937-bf13-dcccc9a3da58
 tags: $:/NowledgeMem
 title: React useDeferredValue()

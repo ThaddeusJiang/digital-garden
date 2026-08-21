@@ -1,6 +1,6 @@
 created: 20251211092046046
 modified: 20260815033746269
-nmem-sync-fingerprint: 98a0bddce0ede94849f1ffca4a6655f674305bb1bf26d1c814d907ddbe2c1c07
+nmem-digest: sha256:98a0bddce0ede94849f1ffca4a6655f674305bb1bf26d1c814d907ddbe2c1c07
 nmem-uri: nowledgemem://memory/5cd6de98-6786-5836-85db-617e369e585d
 tags: [[computer vision tools]] TechRadar/技术 $:/NowledgeMem
 title: roboflow

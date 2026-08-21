@@ -1,6 +1,6 @@
 created: 20250923083210250
 modified: 20260815033746251
-nmem-sync-fingerprint: 72de2484696a008bbddc100996b6dcf584ae6258093e8c6db41d6183a8ea7ac0
+nmem-digest: sha256:72de2484696a008bbddc100996b6dcf584ae6258093e8c6db41d6183a8ea7ac0
 nmem-uri: nowledgemem://memory/de271a85-4622-5d51-889d-e8af21804e15
 tags: $:/NowledgeMem
 title: Boilerplate Code

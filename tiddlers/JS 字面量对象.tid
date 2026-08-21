@@ -1,6 +1,6 @@
 created: 20250507024927603
 modified: 20260815033746261
-nmem-sync-fingerprint: 0e7d31e426f01615f29123004fe58516f2a26e040088746d93d3558d2d378a19
+nmem-digest: sha256:0e7d31e426f01615f29123004fe58516f2a26e040088746d93d3558d2d378a19
 nmem-uri: nowledgemem://memory/64e3e8d9-67d0-5566-a612-d3bfbd24b0d4
 tags: $:/NowledgeMem
 title: JS 字面量对象

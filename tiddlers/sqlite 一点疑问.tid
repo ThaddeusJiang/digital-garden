@@ -1,6 +1,6 @@
 created: 20250730055333813
 modified: 20260815033746269
-nmem-sync-fingerprint: 5979218b3c4453c5ce1dbdb569709dc85c92efdab023f42032a572156388cb9c
+nmem-digest: sha256:5979218b3c4453c5ce1dbdb569709dc85c92efdab023f42032a572156388cb9c
 nmem-uri: nowledgemem://memory/de47719f-d85b-5d73-b445-0ac56819ec60
 tags: $:/NowledgeMem
 title: sqlite 一点疑问

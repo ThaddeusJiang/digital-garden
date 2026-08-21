@@ -1,6 +1,6 @@
 created: 20250501015424850
 modified: 20260815033746261
-nmem-sync-fingerprint: 1b1fbe3f80cf535164320a43e8acac120f0eba809379614f0fca09d15e885a93
+nmem-digest: sha256:1b1fbe3f80cf535164320a43e8acac120f0eba809379614f0fca09d15e885a93
 nmem-uri: nowledgemem://memory/2e9f6081-89c5-5e2e-962d-d0cc3ed2ace2
 tags: $:/NowledgeMem
 title: JS Signals

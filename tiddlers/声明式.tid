@@ -1,6 +1,6 @@
 created: 20250514072951333
 modified: 20260815033746280
-nmem-sync-fingerprint: 8788867cb3165ddf02dda39d25c2c6994f69eb9e79a1bb471257e737e60db43e
+nmem-digest: sha256:8788867cb3165ddf02dda39d25c2c6994f69eb9e79a1bb471257e737e60db43e
 nmem-uri: nowledgemem://memory/2a843d50-2ef5-5ca3-8ff4-aa2111825ba5
 tags: $:/NowledgeMem
 title: 声明式

@@ -1,6 +1,6 @@
 created: 20250801045611207
 modified: 20260815033746279
-nmem-sync-fingerprint: 373c78c5185ab56606508944ede3eb03a4ca3f8bfd46768c6750927532e57419
+nmem-digest: sha256:373c78c5185ab56606508944ede3eb03a4ca3f8bfd46768c6750927532e57419
 nmem-uri: nowledgemem://memory/8bfcb916-b4fe-5223-b673-d859655856f4
 tags: $:/NowledgeMem
 title: 乐观锁

@@ -1,6 +1,6 @@
 created: 20250501064907906
 modified: 20260815033746253
-nmem-sync-fingerprint: 4abd924afc364fff76757a30b1e8bcd00f73744a4b521b2065a98e4894f9423f
+nmem-digest: sha256:4abd924afc364fff76757a30b1e8bcd00f73744a4b521b2065a98e4894f9423f
 nmem-uri: nowledgemem://memory/a71d7b57-4b84-5146-ad8f-81ba60f30416
 tags: $:/NowledgeMem
 title: codegen

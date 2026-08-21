@@ -1,6 +1,6 @@
 created: 20250425091730228
 modified: 20260815033746275
-nmem-sync-fingerprint: 1a4232c12017685db0b3b19fbc0a8dbefe108e2dfa86decd69dc432af32d2b00
+nmem-digest: sha256:1a4232c12017685db0b3b19fbc0a8dbefe108e2dfa86decd69dc432af32d2b00
 nmem-uri: nowledgemem://memory/00d0ecb1-b9fa-5158-a060-5eb8b5bdc2b2
 tags: $:/NowledgeMem
 title: UI unit test 顶级理解

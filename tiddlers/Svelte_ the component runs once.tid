@@ -1,6 +1,6 @@
 created: 20250425094122683
 modified: 20260815033746270
-nmem-sync-fingerprint: f2c26bfd3306ee523a678b69952de623d7cd2dea2e771556c385908e1b9dc585
+nmem-digest: sha256:f2c26bfd3306ee523a678b69952de623d7cd2dea2e771556c385908e1b9dc585
 nmem-uri: nowledgemem://memory/3917dd1b-1b81-51d8-aac9-1e090155bc10
 tags: $:/NowledgeMem
 title: Svelte: the component runs once

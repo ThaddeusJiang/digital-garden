@@ -1,7 +1,7 @@
 created: 20250526021517630
 history: 2025-11-14
 modified: 20260815033746264
-nmem-sync-fingerprint: 4dc067b78d6016209d4d1538db7da194019e777d9e1186acb6162aefb59b75aa
+nmem-digest: sha256:4dc067b78d6016209d4d1538db7da194019e777d9e1186acb6162aefb59b75aa
 nmem-uri: nowledgemem://memory/975a223b-aa8d-51ca-bbc0-5a9b681c6787
 tags: #repeated $:/NowledgeMem
 title: Naming Rule

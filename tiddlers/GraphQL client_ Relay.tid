@@ -1,6 +1,6 @@
 created: 20250918052214060
 modified: 20260815033746260
-nmem-sync-fingerprint: 6d5d417a22bf3690a02189e469944ef37d1b7686a420906f0646f676087e3de2
+nmem-digest: sha256:6d5d417a22bf3690a02189e469944ef37d1b7686a420906f0646f676087e3de2
 nmem-uri: nowledgemem://memory/154409cc-f116-54af-94dd-6763b58491d4
 tags: 2025 $:/NowledgeMem
 title: GraphQL client: Relay

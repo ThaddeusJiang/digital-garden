@@ -1,6 +1,6 @@
 created: 20250605050927114
 modified: 20260815033746255
-nmem-sync-fingerprint: f6597205aad50ec5add3049dc4f1efbca7f788863210cd80ed3aaffb8e8f6958
+nmem-digest: sha256:f6597205aad50ec5add3049dc4f1efbca7f788863210cd80ed3aaffb8e8f6958
 nmem-uri: nowledgemem://memory/2522bda6-2008-5cbf-a5bd-d13bd644c112
 tags: $:/NowledgeMem
 title: DDD domain 常见的错误

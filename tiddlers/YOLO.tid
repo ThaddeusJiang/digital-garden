@@ -1,6 +1,6 @@
 created: 20251211093001631
 modified: 20260815033746277
-nmem-sync-fingerprint: 1e3393d312fc3e6053629276386e5b27786223046889d0d6d429040b4a12b0e1
+nmem-digest: sha256:1e3393d312fc3e6053629276386e5b27786223046889d0d6d429040b4a12b0e1
 nmem-uri: nowledgemem://memory/8d47182a-a5f8-5919-8de9-6cfdf4092f89
 tags: [[computer vision tools]] $:/NowledgeMem
 title: YOLO

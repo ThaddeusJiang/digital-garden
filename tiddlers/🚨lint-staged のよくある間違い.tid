@@ -1,6 +1,6 @@
 created: 20250730030814462
 modified: 20260815033746283
-nmem-sync-fingerprint: 72d4bb697f3674b94d32d76bdf5437b282cd2ef2a5012609619b31484fc7fbd7
+nmem-digest: sha256:72d4bb697f3674b94d32d76bdf5437b282cd2ef2a5012609619b31484fc7fbd7
 nmem-uri: nowledgemem://memory/9e038de9-9593-5d93-92fe-f37ed606eb5c
 tags: $:/NowledgeMem
 title: 🚨lint-staged のよくある間違い

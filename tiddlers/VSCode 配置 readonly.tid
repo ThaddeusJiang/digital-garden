@@ -1,6 +1,6 @@
 created: 20250514071324324
 modified: 20260815033746277
-nmem-sync-fingerprint: 36d0e2fcb036143072d466654304a087f29db3e960b5ff4270f1171f9223065b
+nmem-digest: sha256:36d0e2fcb036143072d466654304a087f29db3e960b5ff4270f1171f9223065b
 nmem-uri: nowledgemem://memory/25a586fa-4ad0-5e7f-a5db-bf551f0b2e69
 tags: $:/NowledgeMem
 title: VSCode 配置 readonly
