@@ -1,5 +1,7 @@
 created: 20250425074853130
 modified: 20260815033746262
+nmem-sync-fingerprint: 10fad91a0661a572eb5d971a21a5a8b0fcc1e412602d5e26241e78fb25b37c40
+nmem-uri: nowledgemem://memory/10ce07f4-57c9-5d2e-acc2-678cd6f32b85
 tags: $:/NowledgeMem
 title: LiveView 可以使用 JS commands 调用 server
 type: text/vnd.tiddlywiki

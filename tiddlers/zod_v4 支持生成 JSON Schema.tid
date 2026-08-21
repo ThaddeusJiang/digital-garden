@@ -1,5 +1,7 @@
 created: 20250610093314474
 modified: 20260815033746278
+nmem-sync-fingerprint: bc7798be20baa3b365fddb1054e91560bfa80cc1026ec737f5b579cafc31c27e
+nmem-uri: nowledgemem://memory/084142ec-4d83-507e-8b86-0ec223d2b679
 tags: $:/NowledgeMem
 title: zod/v4 支持生成 JSON Schema
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20250804055125980
 modified: 20260815033746265
+nmem-sync-fingerprint: e751e4f0784629197c9ab0ed5768d397b2ab2fc981cdea31dacb1874c85291dd
+nmem-uri: nowledgemem://memory/e6dacbfc-d2f0-5773-9441-c1de6763737b
 tags: $:/NowledgeMem
 title: pnpm install env.CI=true 不更新 lockfile
 type: text/vnd.tiddlywiki

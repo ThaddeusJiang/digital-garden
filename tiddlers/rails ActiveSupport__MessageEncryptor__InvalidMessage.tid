@@ -1,5 +1,7 @@
 created: 20250520083720456
 modified: 20260815033746266
+nmem-sync-fingerprint: 4ce8f75e2868ba63cd57f83ba3a01116d0e46f39d08ae6deb23d4e9b0bd79995
+nmem-uri: nowledgemem://memory/b0abd28a-11bc-5459-b8d2-dd4f3c3740bd
 tags: error-logs $:/NowledgeMem
 title: rails ActiveSupport::MessageEncryptor::InvalidMessage
 type: text/vnd.tiddlywiki

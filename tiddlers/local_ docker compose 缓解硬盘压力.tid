@@ -1,5 +1,7 @@
 created: 20250623014717483
 modified: 20260815033746263
+nmem-sync-fingerprint: 0dd687f9cedfe454296a273bd2027ac7bee6494428c6eb94e89cb8e1e82efc6d
+nmem-uri: nowledgemem://memory/8ef36678-5d2c-5dc9-a4ec-d6b918a78b59
 tags: $:/NowledgeMem
 title: local: docker compose 缓解硬盘压力
 type: text/vnd.tiddlywiki

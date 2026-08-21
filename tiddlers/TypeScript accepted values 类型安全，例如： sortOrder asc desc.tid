@@ -1,5 +1,7 @@
 created: 20250507035931170
 modified: 20260815033746274
+nmem-sync-fingerprint: 63a59691879dbfac5bc98a086dddc0ecbeb4463d3137bdd4a7620ade0be035d2
+nmem-uri: nowledgemem://memory/b23d0625-b5c8-5665-ac72-2241a478644b
 tags: $:/NowledgeMem
 title: TypeScript accepted values 类型安全，例如： sortOrder asc desc
 type: text/vnd.tiddlywiki

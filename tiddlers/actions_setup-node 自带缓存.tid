@@ -1,5 +1,7 @@
 created: 20250804060033005
 modified: 20260815033746249
+nmem-sync-fingerprint: 524880fbbfbc1741dd93609e2ebe093ec9b775654de7ca0c23d138a01438158b
+nmem-uri: nowledgemem://memory/88c55fc9-0dcf-5437-b1de-1ef1b47f4933
 tags: $:/NowledgeMem
 title: actions/setup-node 自带缓存
 type: text/vnd.tiddlywiki

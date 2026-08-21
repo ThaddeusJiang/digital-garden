@@ -1,5 +1,7 @@
 created: 20250902100334197
 modified: 20260815033746264
+nmem-sync-fingerprint: 84eded5ae71fca0f9a204f57486d30f32f8334188fbfbb64528740203e615bb4
+nmem-uri: nowledgemem://memory/036cfd25-88b8-5d31-acb1-4d4213ab2e25
 tags: $:/NowledgeMem
 title: next.config.ts Partial Prerendering (PPR)
 type: text/vnd.tiddlywiki

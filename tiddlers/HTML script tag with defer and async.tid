@@ -2,6 +2,8 @@ created: 20240830051902520
 creator: TJ
 modified: 20260815033746260
 modifier: TJ
+nmem-sync-fingerprint: c5f44d9f6a0ef66f43fd3d3dd1946f08db1c8ca6b51ccd8ac26450e087c43c5a
+nmem-uri: nowledgemem://memory/ef4dab5a-36a2-5e21-83f1-e42d0ec4fb90
 tags: Bookmarks $:/NowledgeMem
 title: HTML script tag with defer and async
 type: text/vnd.tiddlywiki

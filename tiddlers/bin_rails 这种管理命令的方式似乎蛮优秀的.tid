@@ -1,5 +1,7 @@
 created: 20250818060326438
 modified: 20260815033746251
+nmem-sync-fingerprint: ddc4a261704f59343d27150258cbc54dbd94244f8d86957f5f06d968fa72ae0d
+nmem-uri: nowledgemem://memory/60462e5b-6e4f-520e-9211-e484bc2b796e
 tags: $:/NowledgeMem
 title: bin/rails 这种管理命令的方式似乎蛮优秀的
 type: text/vnd.tiddlywiki
