@@ -2,6 +2,8 @@ created: 20230221001904248
 creator: TJ
 modified: 20260815033746249
 modifier: TJ
+nmem-digest: sha256:a9fc34988365489639ba37250db1ca67acebf39c149edb7e0c5a558f7a2f87d8
+nmem-uri: nowledgemem://memory/d0c1e6b1-e93e-5997-94f6-465d12523067
 tags: $:/NowledgeMem
 title: About
 type: text/vnd.tiddlywiki

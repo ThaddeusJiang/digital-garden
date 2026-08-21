@@ -1,5 +1,7 @@
 created: 20250421082112680
 modified: 20260815033746266
+nmem-digest: sha256:7f965d65d39cb95c50a9b50bb807d233c038d0936f4341e932a72cd01633b47a
+nmem-uri: nowledgemem://memory/1ff95ea2-1a72-5868-9dd1-5924a03637cb
 tags: $:/NowledgeMem
 title: rails routes 命名
 type: text/vnd.tiddlywiki

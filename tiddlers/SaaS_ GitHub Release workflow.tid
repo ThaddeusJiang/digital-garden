@@ -1,5 +1,7 @@
 created: 20250704080758176
 modified: 20260815033746269
+nmem-digest: sha256:c1ce2b2e6e3c8d66adaee2fc6d57fb27b8546c6867981648a95bbcbf0faa85b5
+nmem-uri: nowledgemem://memory/039c5bff-c260-55e9-aa3b-e148994d5070
 tags: $:/NowledgeMem
 title: SaaS: GitHub Release workflow
 type: text/vnd.tiddlywiki

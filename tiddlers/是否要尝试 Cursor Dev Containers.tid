@@ -1,5 +1,7 @@
 created: 20250826021558792
 modified: 20260815033746282
+nmem-digest: sha256:5e02ded22325dcaa7cd719049327d7c5e5e82e819429db8f7c31145a3442633c
+nmem-uri: nowledgemem://memory/76e0fc6c-6762-5a24-b8c9-a0386a3eee87
 tags: $:/NowledgeMem
 title: 是否要尝试 Cursor Dev Containers
 type: text/vnd.tiddlywiki

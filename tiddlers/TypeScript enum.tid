@@ -1,5 +1,7 @@
 created: 20250507040104214
 modified: 20260815033746274
+nmem-digest: sha256:035aab836b2e21024fa19eed7477ce40934022db406975b0f0bda03ddee74b88
+nmem-uri: nowledgemem://memory/23f09cc0-a936-5540-9bbb-b48feb108af7
 tags: $:/NowledgeMem
 title: TypeScript enum
 type: text/vnd.tiddlywiki

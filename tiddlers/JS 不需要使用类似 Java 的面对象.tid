@@ -1,5 +1,7 @@
 created: 20250424093238726
 modified: 20260815033746261
+nmem-digest: sha256:64968df2ca3f3d68836aa0593797d8c781e0c3f2628c3d92bfe996e2633da65a
+nmem-uri: nowledgemem://memory/3b6cd069-ffb5-5eb0-b907-7bf0153438d1
 tags: [[JS Rules]] $:/NowledgeMem
 title: JS 不需要使用类似 Java 的面对象
 type: text/vnd.tiddlywiki

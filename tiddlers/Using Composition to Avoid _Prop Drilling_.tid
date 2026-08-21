@@ -2,6 +2,8 @@ created: 20210212031659024
 creator: TJ
 modified: 20260815033746276
 modifier: TJ
+nmem-digest: sha256:b94b9196621d1b586f7cd1d2d8da26ede93e95af55f5a78d62c87200425a0e9f
+nmem-uri: nowledgemem://memory/bd717cef-687b-57dd-8e7e-8fbd7159a0dc
 tags: Bookmarks $:/NowledgeMem
 title: Using Composition to Avoid "Prop Drilling"
 type: text/vnd.tiddlywiki

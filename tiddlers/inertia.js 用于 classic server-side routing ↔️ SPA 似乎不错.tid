@@ -1,5 +1,7 @@
 created: 20250514085211359
 modified: 20260815033746261
+nmem-digest: sha256:a57a7cfc2472824a46a164f26c36343a513677f162f5634ee058285caf87f6da
+nmem-uri: nowledgemem://memory/d93e3629-a603-5a14-8f7e-4add143526e5
 tags: $:/NowledgeMem
 title: inertia.js 用于 classic server-side routing ↔️ SPA 似乎不错
 type: text/vnd.tiddlywiki

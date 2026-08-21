@@ -1,5 +1,7 @@
 created: 20250318142601035
 modified: 20260815033746267
+nmem-digest: sha256:360f354e173ffa26dcb9b5664f443de5f633e50be86fc06442f420c828508e01
+nmem-uri: nowledgemem://memory/1c07f338-b783-5486-8892-4a7f25ec00fb
 tags: $:/NowledgeMem
 title: React state management
 type: text/vnd.tiddlywiki

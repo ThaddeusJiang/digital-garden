@@ -1,5 +1,7 @@
 created: 20250612022229665
 modified: 20260815033746274
+nmem-digest: sha256:44305196718c1cea478a06e883f32ac2437741454a49e90eab103911a5e1f0b7
+nmem-uri: nowledgemem://memory/a6b84c5d-3fd6-5f9f-af82-782857f2bcb8
 tags: $:/NowledgeMem
 title: TypeScript enum 超酷定义
 type: text/vnd.tiddlywiki

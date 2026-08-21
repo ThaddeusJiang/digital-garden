@@ -1,5 +1,7 @@
 created: 20250520031902529
 modified: 20260815033746263
+nmem-digest: sha256:ce29bb2fb45b2db897e4c6309d041a378954e5220a3aabca79b6d5c85faf8815
+nmem-uri: nowledgemem://memory/7fc87556-fa50-5bfc-a59a-4ddafc31f5e8
 tags: $:/NowledgeMem
 title: local: docker builder prune 清理构建缓存
 type: text/vnd.tiddlywiki

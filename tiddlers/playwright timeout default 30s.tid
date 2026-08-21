@@ -1,5 +1,7 @@
 created: 20250730090141816
 modified: 20260815033746265
+nmem-digest: sha256:ac5160c8af9e9c9e8669e466eca66c97fbb7baa128aff47962b60b6264f6f6ee
+nmem-uri: nowledgemem://memory/4cdcb8b6-8016-55ae-b5c6-b7ed11b62738
 tags: $:/NowledgeMem
 title: playwright timeout default 30s
 type: text/vnd.tiddlywiki

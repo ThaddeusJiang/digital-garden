@@ -1,5 +1,7 @@
 created: 20250430030602336
 modified: 20260815033746259
+nmem-digest: sha256:8bcf651f0f0a02d6b482787007358fe15fed2eeae6157d4283d50a0ea719d987
+nmem-uri: nowledgemem://memory/b55f76f2-44a2-59d5-8d6b-5764c0e3ad1e
 tags: $:/NowledgeMem
 title: graphql apollo-client TypeScript
 type: text/vnd.tiddlywiki

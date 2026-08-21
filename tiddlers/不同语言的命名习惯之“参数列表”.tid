@@ -1,5 +1,7 @@
 created: 20250107060502876
 modified: 20260815033746278
+nmem-digest: sha256:90f3e270c7747c47946da41adfd0c75f3c1cfe7fb3fd27b401f79337361437df
+nmem-uri: nowledgemem://memory/c2fc591a-1dc8-5a12-a379-75de6f65cc99
 tags: $:/NowledgeMem
 title: 不同语言的命名习惯之“参数列表”
 type: text/vnd.tiddlywiki

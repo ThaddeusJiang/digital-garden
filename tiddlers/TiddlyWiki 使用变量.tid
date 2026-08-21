@@ -2,6 +2,8 @@ created: 20230228055835056
 creator: ThaddeusJiang
 modified: 20260815033746273
 modifier: ThaddeusJiang
+nmem-digest: sha256:4ed0daeb8391b8e58e7263d8ab075b90efc6bf268d94be9882237c47d4906b4b
+nmem-uri: nowledgemem://memory/d212ce02-2815-5c13-834b-aa20470d64b8
 tags: $:/NowledgeMem
 title: TiddlyWiki 使用变量
 type: text/vnd.tiddlywiki

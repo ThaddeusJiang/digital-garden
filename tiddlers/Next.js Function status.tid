@@ -1,5 +1,7 @@
 created: 20250902095309467
 modified: 20260815033746264
+nmem-digest: sha256:dc5b1170a04b29028e94968eea2790c57d0e4936be6dd55671bd5557ae99683d
+nmem-uri: nowledgemem://memory/82dbc720-6856-5f4d-9502-9a407faac026
 tags: $:/NowledgeMem
 title: Next.js Function status
 type: text/vnd.tiddlywiki

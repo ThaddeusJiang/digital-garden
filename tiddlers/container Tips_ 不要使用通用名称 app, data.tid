@@ -1,5 +1,7 @@
 created: 20250824181229027
 modified: 20260815033746253
+nmem-digest: sha256:ae8b6e801b8f2c2fa33216942ad4740150bd58182a484a1a2290efd6d9608c63
+nmem-uri: nowledgemem://memory/ccb0cebc-41c5-59e4-8f06-f7b87631af9d
 tags: $:/NowledgeMem
 title: container Tips: 不要使用通用名称 app, data
 type: text/vnd.tiddlywiki

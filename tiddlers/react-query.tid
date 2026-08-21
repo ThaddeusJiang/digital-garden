@@ -1,5 +1,7 @@
 created: 20250523063138039
 modified: 20260815033746267
+nmem-digest: sha256:861de2a11e056dd38e65f759021f76c97e5447df0d92c694b7eb0fc80f750412
+nmem-uri: nowledgemem://memory/995532ee-f99e-514d-85d9-66e6f4b4fc4c
 tags: TODO: $:/NowledgeMem
 title: react-query
 type: text/vnd.tiddlywiki

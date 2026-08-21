@@ -1,5 +1,7 @@
 created: 20250711035428526
 modified: 20260815033746273
+nmem-digest: sha256:cca3dabacac1547a3576f3dfb00fa92263d5c6b805fb8e57243bfd5925836f5b
+nmem-uri: nowledgemem://memory/52cff6f1-9691-5e4a-8bf5-8ceaef106b81
 tags: $:/NowledgeMem
 title: TJ: 复杂项目不要使用 static files 部署 frontend
 type: text/vnd.tiddlywiki

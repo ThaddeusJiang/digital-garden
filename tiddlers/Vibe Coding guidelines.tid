@@ -1,5 +1,7 @@
 created: 20250923080545997
 modified: 20260815033746276
+nmem-digest: sha256:863983abb5c74defd63b08ba34f55dd95d2b8502c32237a129e7079ee2097b51
+nmem-uri: nowledgemem://memory/81b2d8aa-4680-59b8-b9c4-e6c6b5e33f3c
 tags: $:/NowledgeMem
 title: Vibe Coding guidelines
 type: text/vnd.tiddlywiki

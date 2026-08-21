@@ -1,5 +1,7 @@
 created: 20250902114907422
 modified: 20260815033746262
+nmem-digest: sha256:a051e18452975ae3ade86be0ca5b79cd14446c5cfe8613f0b12709a0d154f9e7
+nmem-uri: nowledgemem://memory/36622a10-840e-5d39-9f0b-5ce1cba31c17
 tags: $:/NowledgeMem
 title: launchd（macOS 原生工具）
 type: text/vnd.tiddlywiki

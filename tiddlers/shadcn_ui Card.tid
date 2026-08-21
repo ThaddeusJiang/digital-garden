@@ -1,5 +1,7 @@
 created: 20250824183121148
 modified: 20260815033746269
+nmem-digest: sha256:838bb9a7ff7deed3c4aac10db5e2cacd38c8a9d538046c5361807f0eabf85189
+nmem-uri: nowledgemem://memory/027fff17-f9f0-51dc-be98-55afd186d83a
 tags: $:/NowledgeMem
 title: shadcn/ui Card
 type: text/vnd.tiddlywiki

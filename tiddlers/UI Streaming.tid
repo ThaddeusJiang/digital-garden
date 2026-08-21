@@ -1,5 +1,7 @@
 created: 20250224032123234
 modified: 20260815033746275
+nmem-digest: sha256:f5f0fc57b0ce020775711f3aa27f5681977de97654eb72d7e8fbb736ebc1b81a
+nmem-uri: nowledgemem://memory/f1cd2e77-1e05-5686-8a50-21dea12b34a3
 tags: $:/NowledgeMem
 title: UI Streaming
 type: text/vnd.tiddlywiki

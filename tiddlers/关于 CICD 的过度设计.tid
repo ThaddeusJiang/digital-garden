@@ -1,5 +1,7 @@
 created: 20250730023528077
 modified: 20260815033746279
+nmem-digest: sha256:60c5563c60990119ea53595136457b3f179b2433446e88a0b238e0fc5ea4b688
+nmem-uri: nowledgemem://memory/4470d97b-81e9-5887-a14c-c1385f0b74f0
 tags: $:/NowledgeMem
 title: 关于 CICD 的过度设计
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20250331060537615
 modified: 20260815033746269
+nmem-digest: sha256:4f543588b9392ed79a0c81e506bff71eaa7db9f10e2f604b6d4f954a814bdff3
+nmem-uri: nowledgemem://memory/6e6d2252-5b41-5084-baaa-49bc7bd151b7
 tags: $:/NowledgeMem
 title: SSR vs. Embedded Template
 type: text/vnd.tiddlywiki

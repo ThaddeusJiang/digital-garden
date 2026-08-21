@@ -1,5 +1,7 @@
 created: 20250424095042671
 modified: 20260815033746261
+nmem-digest: sha256:5f319b047df2230a9c0868e27d89fe62724ebb98fe37b474bfa39768c80c2a5e
+nmem-uri: nowledgemem://memory/7af4b838-6185-5edb-b099-d16f569765f5
 tags: $:/NowledgeMem
 title: jotai example
 type: text/vnd.tiddlywiki

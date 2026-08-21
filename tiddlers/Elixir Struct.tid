@@ -1,5 +1,7 @@
 created: 20250824182334108
 modified: 20260815033746257
+nmem-digest: sha256:668251a01a2ca08db5128a40e22f1cd9ca54e44e8136862e2f191b287acc222f
+nmem-uri: nowledgemem://memory/10ca7686-dda7-5fb8-872c-2616fbadd684
 tags: $:/NowledgeMem
 title: Elixir Struct
 type: text/vnd.tiddlywiki

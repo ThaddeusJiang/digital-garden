@@ -1,5 +1,7 @@
 created: 20250806041531945
 modified: 20260815033746258
+nmem-digest: sha256:20f5fe190c37bc010e03b3e4694e4cb8aff136d593c4c6648b3b2313ed524571
+nmem-uri: nowledgemem://memory/91fad7e7-b16d-51df-9ba0-57cb4950edb4
 tags: $:/NowledgeMem
 title: Elixir 短函数
 type: text/vnd.tiddlywiki

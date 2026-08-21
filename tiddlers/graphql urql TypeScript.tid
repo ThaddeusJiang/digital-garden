@@ -1,5 +1,7 @@
 created: 20250430030749075
 modified: 20260815033746260
+nmem-digest: sha256:9b756ef09224c76d6f0f4fcfdc50b530ee26d9a67c267d13529b1fd79288906f
+nmem-uri: nowledgemem://memory/e981a189-febb-5f12-9073-91219b4f3da4
 tags: $:/NowledgeMem
 title: graphql urql TypeScript
 type: text/vnd.tiddlywiki

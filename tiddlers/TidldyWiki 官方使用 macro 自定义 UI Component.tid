@@ -1,5 +1,7 @@
 created: 20250923045835852
 modified: 20260815033746273
+nmem-digest: sha256:d9c1219dda30c479e7a1a85f5194ca705ccac0884eb9d17301de2c4c12d04d0f
+nmem-uri: nowledgemem://memory/894c20d2-ee1a-5652-81d9-77b3c34ab04e
 tags: $:/NowledgeMem
 title: TidldyWiki 官方使用 macro 自定义 UI Component
 type: text/vnd.tiddlywiki

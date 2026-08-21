@@ -1,5 +1,7 @@
 created: 20250425095848319
 modified: 20260815033746267
+nmem-digest: sha256:0b2d922ff0f764fd6cf5e5e09ab90cd4f4c0f30d78021e702c19bb9b4c4542ef
+nmem-uri: nowledgemem://memory/0925a095-8840-5164-9be8-0d1e72070941
 tags: tj-edu $:/NowledgeMem
 title: react-hook-form deeply nested components
 type: text/vnd.tiddlywiki

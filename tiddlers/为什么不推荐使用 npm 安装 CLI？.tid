@@ -1,5 +1,7 @@
 created: 20250903015412166
 modified: 20260815033746278
+nmem-digest: sha256:254289d9fb56bf68dc401f91e9eebf1b7ae80887296852c59584b31431a97e00
+nmem-uri: nowledgemem://memory/a3f68e25-0afb-5a5a-a9e2-754a248e97e7
 tags: $:/NowledgeMem
 title: 为什么不推荐使用 npm 安装 CLI？
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20250824190832635
 modified: 20260815033746254
+nmem-digest: sha256:cd9944b34ccc483789977337d98c310dc06231f0376c70724e7d007ea711b941
+nmem-uri: nowledgemem://memory/32ccbd80-1ae2-5c41-a7c8-31a79b431faf
 tags: $:/NowledgeMem
 title: daisyUI Card
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20250514051201144
 modified: 20260815033746262
+nmem-digest: sha256:4f6b9c219f7d8dc1807d21dc36630f8378b6e7203a88ebbc2789d01e529608bb
+nmem-uri: nowledgemem://memory/17bfbd2c-0607-53a9-9145-b4cf4409b44f
 tags: $:/NowledgeMem
 title: k8s pod
 type: text/vnd.tiddlywiki

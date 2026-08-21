@@ -1,5 +1,7 @@
 created: 20250730042134693
 modified: 20260815033746276
+nmem-digest: sha256:5547008778ff15632869b9d8e3ef178d8424867247f8be005b8335f8e476b0ea
+nmem-uri: nowledgemem://memory/1ecb047b-87f2-503c-85e4-6ffea869f97d
 tags: $:/NowledgeMem
 title: Vitest 测试 Date
 type: text/vnd.tiddlywiki

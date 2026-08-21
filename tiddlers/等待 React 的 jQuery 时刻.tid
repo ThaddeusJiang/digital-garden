@@ -1,5 +1,7 @@
 created: 20250501015113570
 modified: 20260815033746282
+nmem-digest: sha256:00b43a5473efe4e28011699ddd5533943778ad6c17025f0cce287edcefb47905
+nmem-uri: nowledgemem://memory/892e4241-12db-51fe-9dab-4c320a8ca7f8
 tags: $:/NowledgeMem
 title: 等待 React 的 jQuery 时刻
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20250320054020418
 modified: 20260815033746254
+nmem-digest: sha256:7a60b9ab76bc4b415b68135949c2fff746060bfaecfabae13d8ff93c8f9e855a
+nmem-uri: nowledgemem://memory/9e990650-bcfb-539b-8ef3-8cc302d1cf8d
 tags: $:/NowledgeMem
 title: Data sync
 type: text/vnd.tiddlywiki

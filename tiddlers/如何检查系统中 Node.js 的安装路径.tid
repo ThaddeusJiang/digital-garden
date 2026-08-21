@@ -1,5 +1,7 @@
 created: 20251204105104366
 modified: 20260815033746280
+nmem-digest: sha256:c0f6c32dc69410f3a2c22d034f363a75461f16ffb435e89ffb2a552e2a8c9f09
+nmem-uri: nowledgemem://memory/7acf4f44-0f46-5390-9f7f-837c3f27920b
 tags: $:/NowledgeMem
 title: 如何检查系统中 Node.js 的安装路径
 type: text/vnd.tiddlywiki

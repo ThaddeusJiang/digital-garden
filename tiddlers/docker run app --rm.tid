@@ -1,5 +1,7 @@
 created: 20250731060056507
 modified: 20260815033746256
+nmem-digest: sha256:66002dfc57deaa32debbb435cd6752e4f6804f75075cae29e1927ab0b708a7e5
+nmem-uri: nowledgemem://memory/409c1cd7-1114-5a08-bbbd-6d069b014642
 tags: $:/NowledgeMem
 title: docker run app --rm
 type: text/vnd.tiddlywiki

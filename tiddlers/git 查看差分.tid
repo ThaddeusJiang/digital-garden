@@ -1,5 +1,7 @@
 created: 20251114071523914
 modified: 20260815033746258
+nmem-digest: sha256:936a4a348842da216e2ba2bcd037c5e37cec8fa2b600fa46c585d66a53aa5b91
+nmem-uri: nowledgemem://memory/060b8be9-8fc2-5e5f-9b89-9914f14397b4
 tags: $:/NowledgeMem
 title: git 查看差分
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20250331072616490
 modified: 20260815033746252
+nmem-digest: sha256:05b037c1ee87c7e60ce56bfcac2e2c0dd2a59b733c7d13f543e6586765301198
+nmem-uri: nowledgemem://memory/04f3ce3c-fa03-58dc-ba24-fbb4431eb9db
 tags: $:/NowledgeMem
 title: Client–server model
 type: text/vnd.tiddlywiki

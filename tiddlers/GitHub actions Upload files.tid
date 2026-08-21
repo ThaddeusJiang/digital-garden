@@ -1,5 +1,7 @@
 created: 20250514070305018
 modified: 20260815033746259
+nmem-digest: sha256:67dc7ca87dbc34f8424229c6ac4c0ac43891bba9c8c46748d5bccf9956fd1178
+nmem-uri: nowledgemem://memory/dc8052cd-c309-5ecb-b735-6a88d7cbc596
 tags: $:/NowledgeMem
 title: GitHub actions Upload files
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20251014015932716
 modified: 20260814152325292
+nmem-digest: sha256:588085f671ced706fcbeb56c5e6d913f4319017501d5233360f37417199bc6f6
+nmem-uri: nowledgemem://memory/c3a30644-9368-5a7f-ab3f-1f3925a64f8d
 tags: TechRadar/放弃 $:/NowledgeMem
 title: SSG (Static Site Generation)
 type: text/vnd.tiddlywiki

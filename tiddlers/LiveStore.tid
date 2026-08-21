@@ -1,5 +1,7 @@
 created: 20250825052433351
 modified: 20260815033746262
+nmem-digest: sha256:426ea813e5b42603ec8414924e94d2f3056be901254c4987631ac7d8fce7ab61
+nmem-uri: nowledgemem://memory/70d199ca-1ed4-578c-b4c6-279f6fc7fc75
 tags: [[local first data stack]] $:/NowledgeMem
 title: LiveStore
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20251001015335767
 modified: 20260815033746277
+nmem-digest: sha256:041fc4c5eb518b622057d5df7996fd92e5a11337e57daea003be4ca2b88ab9bf
+nmem-uri: nowledgemem://memory/f21a0688-0f8c-53af-8f20-1f411ad2ec45
 tags: tj-edu $:/NowledgeMem
 title: web frontend: 正式项目 form helper 是必须的
 type: text/vnd.tiddlywiki

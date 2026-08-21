@@ -1,5 +1,7 @@
 created: 20250521051326130
 modified: 20260815033746256
+nmem-digest: sha256:f4d5135cf198765e8321fbfcb633ed312f661f68ea1522fc503aded0bf45bccb
+nmem-uri: nowledgemem://memory/4081c1de-2b32-5d9b-aba4-e55970e21547
 tags: $:/NowledgeMem
 title: docker desktop 清理资源
 type: text/vnd.tiddlywiki

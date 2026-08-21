@@ -1,5 +1,7 @@
 created: 20250514091832817
 modified: 20260815033746262
+nmem-digest: sha256:e4c57a4c4521f3fbe49c4a255b606cc35ac0b7f70d2d0237a27d5cca1b805283
+nmem-uri: nowledgemem://memory/72b32c69-7eac-5afb-84d5-4d3eb161d067
 tags: tj-stack $:/NowledgeMem
 title: jscpd - js Copy/paste detector
 type: text/vnd.tiddlywiki

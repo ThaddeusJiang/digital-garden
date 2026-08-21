@@ -1,5 +1,7 @@
 created: 20250425073356498
 modified: 20260815033746281
+nmem-digest: sha256:d98c3db8bae684ffcc9eadcd13ba087c16b7ace03a77f1de4c8aa14a4711dfd1
+nmem-uri: nowledgemem://memory/32cae21b-91b6-5ace-9076-2c68f8a0795a
 tags: $:/NowledgeMem
 title: 我期待 client-server 通信就像函数调用（functions call）一样简单
 type: text/vnd.tiddlywiki

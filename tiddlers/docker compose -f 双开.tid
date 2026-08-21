@@ -1,5 +1,7 @@
 created: 20250808070940781
 modified: 20260815033746255
+nmem-digest: sha256:8d1fbbbdc244ce067f7df21b590b32de3b08e51fa55fdd137409be779a4de74b
+nmem-uri: nowledgemem://memory/68ff4959-6bb8-5d59-86ff-d3cc0b4a7ac2
 tags: $:/NowledgeMem
 title: docker compose -f 双开
 type: text/vnd.tiddlywiki

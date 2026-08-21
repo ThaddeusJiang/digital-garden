@@ -1,5 +1,7 @@
 created: 20251014090329430
 modified: 20260815033746266
+nmem-digest: sha256:5a2415c8b8f67e75eb3e393846c4e06e745de6d14c69934ed7e4d396a6402b3e
+nmem-uri: nowledgemem://memory/a62ef680-4adb-5226-9a00-281945e4ab93
 tags: $:/NowledgeMem
 title: RAG (Retrieval Augmented Generation)
 type: text/vnd.tiddlywiki

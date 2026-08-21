@@ -1,5 +1,7 @@
 created: 20211214064119836
 modified: 20260815033746265
+nmem-digest: sha256:3c76f54e8901aca7dd266ae77188ee5c7b1fe959435d22e3e022c42b3b4d6fba
+nmem-uri: nowledgemem://memory/044b544c-607d-55f6-8104-bd6d32d4db9f
 tags: $:/NowledgeMem
 title: OptimisticUpdates
 type: text/vnd.tiddlywiki

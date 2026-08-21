@@ -1,5 +1,7 @@
 created: 20250619085408161
 modified: 20260815033746266
+nmem-digest: sha256:7704d22c0feedb3d3ecd9ef3b172f8e3b5880c5afdb3c77fea3e31aebe1c7fa7
+nmem-uri: nowledgemem://memory/f0eabc35-483f-5fd6-95ac-95420a4a376e
 tags: $:/NowledgeMem
 title: rails puma foreman
 type: text/vnd.tiddlywiki

@@ -1,5 +1,7 @@
 created: 20240723055029887
 modified: 20260815033746281
+nmem-digest: sha256:455adf7ed4386d441ac122cc5789d7480d46766eedaadad198dac76aa3c5cdfa
+nmem-uri: nowledgemem://memory/37ad191f-3d96-5bfc-9354-15ef081cde89
 tags: $:/NowledgeMem
 title: 小团队不应该使用“计费复杂的” Services
 type: text/vnd.tiddlywiki

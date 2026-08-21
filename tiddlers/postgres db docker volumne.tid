@@ -1,5 +1,7 @@
 created: 20250824181825742
 modified: 20260815033746265
+nmem-digest: sha256:c4a9921f5e50c008a7f4f729ee60668276b0077f667dc1f7fa7e8b7de06f80bd
+nmem-uri: nowledgemem://memory/93ef1bd6-818d-523d-a2f4-021eaefd48bc
 tags: $:/NowledgeMem
 title: postgres db docker volumne
 type: text/vnd.tiddlywiki

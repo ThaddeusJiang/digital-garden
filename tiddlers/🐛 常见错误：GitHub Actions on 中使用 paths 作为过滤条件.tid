@@ -1,5 +1,7 @@
 created: 20250514063405458
 modified: 20260815033746283
+nmem-digest: sha256:9188ac497ac52ad1d0101a3e8a58c953d800f030e99f455b005f52a5bc275bb4
+nmem-uri: nowledgemem://memory/304ceea8-b5dc-580f-8cec-2387566be6d8
 tags: $:/NowledgeMem
 title: 🐛 常见错误：GitHub Actions on 中使用 paths 作为过滤条件
 type: text/vnd.tiddlywiki
